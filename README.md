@@ -43,7 +43,6 @@
         <input type="text" placeholder="enter email id" /><br/>
         <label>Password</label><br/>
         <input type="password" placeholder="enter password" /><br/>
-        <img class="rotate" width="80px" height="80px" src="Sample.jpeg" />
         <button>Login</button>
     </div>
 </body>
